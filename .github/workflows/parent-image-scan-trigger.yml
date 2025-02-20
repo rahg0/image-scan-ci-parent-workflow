@@ -26,5 +26,4 @@ jobs:
       project_key: slrk
       dockerfile-details: './Dockerfile'
       image_name: raghuesh/image-scan-ci-parent-workflow
-      image_tag: $(git rev-parse --short HEAD) 
     secrets: inherit
