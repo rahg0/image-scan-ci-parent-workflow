@@ -1,1 +1,1 @@
-# -image-scan-ci-parent-workflow
+# image-scan-ci-parent-workflow
